@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [x] Inputs 10 integers from the user into an array, and removes the duplicate array elements. 
 - [x] All the integers are between 0 and 100
 - [x] storing only the non-repeating elements
-- [x] A string and displays how many occurrences of each character are in the strinG
+- [x] A string and displays how many occurrences of each character are in the string
 
 ## Video Walkthrough 
 
